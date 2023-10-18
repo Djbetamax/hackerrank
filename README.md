@@ -14,4 +14,3 @@ This repo contains all my completed challenges on the [Hackerrank](https://hacke
 | #6 Compare The Triples | <!-- [Java](.),--> [Javascript](.) |
 | #7 Mini Max Sum | <!-- [Java](.),--> [Javascript](.) |
 | #8 time Conversion | <!-- [Java](.),--> [Javascript](.) |
-| #9 Mini Max Sum | <!-- [Java](.),--> [Javascript](.) |
